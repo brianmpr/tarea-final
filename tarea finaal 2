@@ -1,0 +1,13 @@
+echo "# tarea-final" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/brianmpr/tarea-final. git
+ git push -u origen principal
+ <html>
+ <head>
+ <title>pagina web de complejo educativo basilio blandon
+ </head>
+ <h1>  Historia  del complejo  educativo Basilio Blandon</h1>
+ 
